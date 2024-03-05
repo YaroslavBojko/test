@@ -3,3 +3,8 @@
 //
 
 #include <iostream>
+
+int main ()
+{
+
+}
